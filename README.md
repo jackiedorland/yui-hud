@@ -4,3 +4,5 @@ this is a fork of [Mokila795/maidcore](https://github.com/Mokila795/maidcore) bu
 i also changed the pictures on the main menu and some other stuff
 
 i want to change the colors and make it a little more K-On!! related in the future but i'm too busy right now!
+
+it doesn't work on mac or linux i think but it might just be a font issue
